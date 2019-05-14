@@ -1,0 +1,2 @@
+-- THIS FILE IS FOR TESTING PURPOSE! --
+Testing how GitHub Desktop works
